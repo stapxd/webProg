@@ -35,33 +35,11 @@ body{
 	width: 1000px;
 	height: fit-content;
 
-	display: inline-flex;
-
-
-	flex-wrap: wrap;
-	align-items: center;
-	justify-content: center;
-
-
-	row-gap: 40px;
-	column-gap: 20px;
+	display: inline-block;
 
 	text-align: left;
 	font-size: 22px;
 	font-family: sans-serif;
-}
-
-.main > div{
-	width: 200px;
-	height: fit-content;
-	
-	
-	align-items: center;
-	background-color: #2f6ed4;
-
-	border: #757575 solid 1px;
-
-	text-align: center;
 }
 
 
