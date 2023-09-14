@@ -1,0 +1,35 @@
+.footer1, .footer{
+
+	margin: 0;
+	margin-top: 10px;
+	padding: 0;
+
+
+	width: 100%;
+	height: 800px;
+
+	text-align: center;
+
+}
+
+.footer {
+	background-color: #2f3863;
+
+	height: 210px;
+
+}
+
+.footer1{
+	height: 30px;
+}
+
+.footer1 > div{
+	width: 1400px;
+	height: 30px;
+
+	display: inline-block;
+}
+
+.footer1 > div hr{
+	border: #383838 1px solid;
+}
