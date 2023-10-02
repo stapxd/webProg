@@ -43,3 +43,23 @@ body{
 }
 
 
+
+
+.main table, th {  
+  text-align: left;
+}
+
+.main table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+
+
+.main tr:nth-child(even){
+	background-color: lightblue;
+}
+
+.main tr:hover {
+	background-color: #365f6b;
+}
